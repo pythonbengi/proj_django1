@@ -1,0 +1,1 @@
+web: gunicorn primeiro.wsgi --log-file -
